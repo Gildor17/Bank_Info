@@ -1,0 +1,479 @@
+
+<exchange>
+    <currency>
+        <r030>682</r030>
+        <txt>Саудівський рiял</txt>
+        <rate>7.016464</rate>
+        <cc>SAR</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>702</r030>
+        <txt>Сигапурський долар</txt>
+        <rate>18.71859</rate>
+        <cc>SGD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>704</r030>
+        <txt>Донг</txt>
+        <rate>0.00115905</rate>
+        <cc>VND</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>710</r030>
+        <txt>Ренд</txt>
+        <rate>2.003259</rate>
+        <cc>ZAR</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>752</r030>
+        <txt>Шведська крона</txt>
+        <rate>2.975758</rate>
+        <cc>SEK</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>756</r030>
+        <txt>Швейцарський франк</txt>
+        <rate>26.748964</rate>
+        <cc>CHF</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>760</r030>
+        <txt>Сирійський фунт</txt>
+        <rate>0.121648</rate>
+        <cc>SYP</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>764</r030>
+        <txt>Бат</txt>
+        <rate>0.765454</rate>
+        <cc>THB</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>784</r030>
+        <txt>Дирхам ОАЕ</txt>
+        <rate>7.163953</rate>
+        <cc>AED</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>788</r030>
+        <txt>Туніський динар</txt>
+        <rate>10.825962</rate>
+        <cc>TND</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>949</r030>
+        <txt>Турецька ліра</txt>
+        <rate>7.400794</rate>
+        <cc>TRY</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>934</r030>
+        <txt>Туркменський новий манат</txt>
+        <rate>7.517239</rate>
+        <cc>TMT</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>818</r030>
+        <txt>Єгипетський фунт</txt>
+        <rate>1.443378</rate>
+        <cc>EGP</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>826</r030>
+        <txt>Фунт стерлінгів</txt>
+        <rate>32.96899</rate>
+        <cc>GBP</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>840</r030>
+        <txt>Долар США</txt>
+        <rate>26.025695</rate>
+        <cc>USD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>860</r030>
+        <txt>Узбецький сум</txt>
+        <rate>0.00684</rate>
+        <cc>UZS</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>901</r030>
+        <txt>Новий тайванський долар</txt>
+        <rate>0.872243</rate>
+        <cc>TWD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>952</r030>
+        <txt>Франк CFA-BCEAO</txt>
+        <rate>0.0443129</rate>
+        <cc>XOF</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>959</r030>
+        <txt>Золото</txt>
+        <rate>32552.939</rate>
+        <cc>XAU</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>960</r030>
+        <txt>СПЗ(спец.права запозичення)</txt>
+        <rate>35.889342</rate>
+        <cc>XDR</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>961</r030>
+        <txt>Срiбло</txt>
+        <rate>431.506</rate>
+        <cc>XAG</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>962</r030>
+        <txt>Платина</txt>
+        <rate>23865.562</rate>
+        <cc>XPT</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>964</r030>
+        <txt>Паладiй</txt>
+        <rate>22954.663</rate>
+        <cc>XPD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>978</r030>
+        <txt>Євро</txt>
+        <rate>29.068099</rate>
+        <cc>EUR</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>985</r030>
+        <txt>Злотий</txt>
+        <rate>6.85536</rate>
+        <cc>PLN</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>986</r030>
+        <txt>Бразильський реал</txt>
+        <rate>8.091771</rate>
+        <cc>BRL</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>972</r030>
+        <txt>Сомонi</txt>
+        <rate>2.983031</rate>
+        <cc>TJS</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>643</r030>
+        <txt>Російський рубль</txt>
+        <rate>0.43269</rate>
+        <cc>RUB</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>941</r030>
+        <txt>Сербський динар</txt>
+        <rate>0.240211</rate>
+        <cc>RSD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>933</r030>
+        <txt>Білоруський рубль</txt>
+        <rate>13.47853</rate>
+        <cc>BYN</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>12</r030>
+        <txt>Алжирський динар</txt>
+        <rate>0.242782</rate>
+        <cc>DZD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>944</r030>
+        <txt>Азербайджанський манат</txt>
+        <rate>15.458481</rate>
+        <cc>AZN</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>36</r030>
+        <txt>Австралійський долар</txt>
+        <rate>19.624695</rate>
+        <cc>AUD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>50</r030>
+        <txt>Така</txt>
+        <rate>0.32639</rate>
+        <cc>BDT</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>51</r030>
+        <txt>Вiрменський драм</txt>
+        <rate>0.05458576</rate>
+        <cc>AMD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>975</r030>
+        <txt>Болгарський лев</txt>
+        <rate>14.862511</rate>
+        <cc>BGN</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>124</r030>
+        <txt>Канадський долар</txt>
+        <rate>19.570524</rate>
+        <cc>CAD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>152</r030>
+        <txt>Чилійське песо</txt>
+        <rate>0.0386618</rate>
+        <cc>CLP</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>156</r030>
+        <txt>Юань Женьмiньбi</txt>
+        <rate>3.808563</rate>
+        <cc>CNY</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>191</r030>
+        <txt>Куна</txt>
+        <rate>3.916742</rate>
+        <cc>HRK</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>203</r030>
+        <txt>Чеська крона</txt>
+        <rate>1.106513</rate>
+        <cc>CZK</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>208</r030>
+        <txt>Данська крона</txt>
+        <rate>3.907633</rate>
+        <cc>DKK</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>344</r030>
+        <txt>Гонконгівський долар</txt>
+        <rate>3.336291</rate>
+        <cc>HKD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>348</r030>
+        <txt>Форинт</txt>
+        <rate>0.0940046</rate>
+        <cc>HUF</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>352</r030>
+        <txt>Ісландська крона</txt>
+        <rate>0.224259</rate>
+        <cc>ISK</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>356</r030>
+        <txt>Індійська рупія</txt>
+        <rate>0.4028759</rate>
+        <cc>INR</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>360</r030>
+        <txt>Рупія</txt>
+        <rate>0.00195278</rate>
+        <cc>IDR</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>364</r030>
+        <txt>Іранський ріал</txt>
+        <rate>0.000801</rate>
+        <cc>IRR</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>368</r030>
+        <txt>Іракський динар</txt>
+        <rate>0.022467</rate>
+        <cc>IQD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>376</r030>
+        <txt>Новий ізраїльський шекель</txt>
+        <rate>7.343396</rate>
+        <cc>ILS</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>981</r030>
+        <txt>Ларi</txt>
+        <rate>10.880582</rate>
+        <cc>GEL</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>392</r030>
+        <txt>Єна</txt>
+        <rate>0.2339108</rate>
+        <cc>JPY</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>398</r030>
+        <txt>Теньге</txt>
+        <rate>0.079436</rate>
+        <cc>KZT</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>410</r030>
+        <txt>Вона</txt>
+        <rate>0.0227814</rate>
+        <cc>KRW</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>414</r030>
+        <txt>Кувейтський динар</txt>
+        <rate>86.559523</rate>
+        <cc>KWD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>417</r030>
+        <txt>Сом</txt>
+        <rate>0.386527</rate>
+        <cc>KGS</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>422</r030>
+        <txt>Ліванський фунт</txt>
+        <rate>0.0174738</rate>
+        <cc>LBP</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>434</r030>
+        <txt>Лівійський динар</txt>
+        <rate>18.915905</rate>
+        <cc>LYD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>458</r030>
+        <txt>Малайзійський рінггіт</txt>
+        <rate>6.145852</rate>
+        <cc>MYR</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>484</r030>
+        <txt>Мексіканське песо</txt>
+        <rate>1.433027</rate>
+        <cc>MXN</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>496</r030>
+        <txt>Тугрик</txt>
+        <rate>0.01170087</rate>
+        <cc>MNT</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>498</r030>
+        <txt>Молдовський лей</txt>
+        <rate>1.422418</rate>
+        <cc>MDL</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>504</r030>
+        <txt>Марокканський дирхам</txt>
+        <rate>2.694296</rate>
+        <cc>MAD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>554</r030>
+        <txt>Новозеландський долар</txt>
+        <rate>18.881519</rate>
+        <cc>NZD</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>578</r030>
+        <txt>Норвезька крона</txt>
+        <rate>3.064477</rate>
+        <cc>NOK</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>586</r030>
+        <txt>Пакистанська рупія</txt>
+        <rate>0.251269</rate>
+        <cc>PKR</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>604</r030>
+        <txt>Соль</txt>
+        <rate>7.730985</rate>
+        <cc>PEN</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+    <currency>
+        <r030>946</r030>
+        <txt>Румунський лей</txt>
+        <rate>6.343561</rate>
+        <cc>RON</cc>
+        <exchangedate>23.06.2017</exchangedate>
+    </currency>
+</exchange>
